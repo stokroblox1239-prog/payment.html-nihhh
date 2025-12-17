@@ -1,2 +1,2 @@
-# Nux Official
-nux tamvanmmn
+# putzz store
+putzz
